@@ -9,3 +9,5 @@
 [Spotify](https://www.spotify.com/de-en/download/other/) - digital music service app
 
 [kakaotalk](https://apps.apple.com/kr/app/kakaotog/id869223134?mt=12) - desktop messenger
+
+[espanso](https://github.com/espanso/espanso) - Cross-platform Text Expander
