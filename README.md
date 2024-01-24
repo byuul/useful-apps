@@ -2,6 +2,8 @@
 
 [iTerm2](https://iterm2.com/) - mac os terminal
 
+[sourcetree](https://www.sourcetreeapp.com/) - git gui
+
 [Rectangle](https://rectangleapp.com) - move and resize windows in mac os using keyboard shortcuts
 
 [Spotify](https://www.spotify.com/de-en/download/other/) - digital music service app
